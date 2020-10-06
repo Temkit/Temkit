@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temkit" alt="temkit" /> </p>
 
-- 🔭 I’m currently working on [The biggest E-Commerce Plateform in algeria](savitem.dz)
-
-- 🌱 I’m currently learning **Data Engineering stuf**
+- 🌱 I’m currently learning **Data Engineering stuff**
 
 - 👯 I’m looking to collaborate on **JS, Node, HTML, CSS, React,**
 
