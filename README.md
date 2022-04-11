@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sidali Temkit</h1>
-<h3 align="center">A passionate Full Stack developer from Algeria</h3>
+<h3 align="center">PhD studentu in paris 8. Ia machine learning.</h3>
 
 - 🌱 I’m currently learning **Data Engineering stuff**
-
-- 👯 I’m looking to collaborate on **JS, Node, HTML, CSS, React,**
-
-- 👨‍💻 All of my projects are available at [yet.marketing](yet.marketing)
-
-- 💬 Ask me about **React, JS, Node, HTML/CSS, AWS**
-
+- 👯 I’m looking to collaborate on ** IA, Machine learning **
+- 💬 Ask me about **React, JS, Node, AWS**
 - 📫 How to reach me **temkit.ali@gmail.com**
 
 <p align="left">
