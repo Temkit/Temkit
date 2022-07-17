@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sidali Temkit</h1>
-<h3 align="center">PhD studentu in paris 8. Ia machine learning.</h3>
+<h1 align="center">Hi 👋, I'm Sid Ali Temkit</h1>
+<h3 align="center">PhD student at University of Paris 8. IA machine learning.</h3>
 
-- 🌱 I’m currently learning **Data Engineering stuff**
-- 👯 I’m looking to collaborate on ** IA, Machine learning **
-- 💬 Ask me about **React, JS, Node, AWS**
+- 🌱 I’m currently learning **DBlockchain stuff**
+- 👯 I’m looking forward to collaborate !
+- 💬 Ask me about **Machine learning, IA, and DEV : React, JS, Node, AWS**
 - 📫 How to reach me **temkit.ali@gmail.com**
 
 <p align="left">
